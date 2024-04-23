@@ -27,9 +27,8 @@ Performance Metrics: Used Mean Squared Error (MSE) and Root Mean Squared Error (
 Findings and Insights
 
 Key Drivers: The models highlighted several key factors influencing car prices:
-The model used for analytics (Ridge) suggests that each additional year (being newer cars) increases the car's value. 
+The model used for analytics (Ridge) suggests that each additional year (being newer cars) increases the car's value and that higher mileage significantly reduces the car's value.
 
-It suggests that higher mileage significantly reduces the car's value.
 Recommendations
 
 Inventory Management: It is better to maintain an inventory with more new cars and fewer used cars. When looking to add used cars to your inventory, you should be mindful of adding used cars that have the lowest mileage.
